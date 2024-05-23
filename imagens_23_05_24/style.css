@@ -1,0 +1,43 @@
+img{
+padding-left: 400px;
+}
+
+.a{
+    position: absolute;
+}
+.b{
+    padding-left: 390px;
+    position: absolute;
+}
+.c{
+    padding-left: 780px;
+    position: absolute;
+}
+.d{
+    padding-top: 390px;
+    position: absolute;
+}
+.f{
+    padding-top: 390px;
+    padding-left: 780px;
+    position: absolute;
+}
+.e{
+    padding-top: 390px;
+    padding-left: 390px;
+    position: absolute;
+}
+.g{
+    padding-top: 780px;
+    position: absolute;
+}
+.h{
+    padding-top: 780px;
+    padding-left: 390px;
+    position: absolute;
+}
+.i{
+    padding-top: 780px;
+    padding-left: 780px;
+    position: absolute;
+}
